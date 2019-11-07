@@ -5,7 +5,7 @@ set -e
 
 # JPG quality
 # https://sirv.com/help/resources/jpeg-quality-comparison/
-QUALITY=75
+QUALITY=85
 
 SRC_DIR=toconvert
 DEST_DIR=deploy
